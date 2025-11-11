@@ -64,18 +64,12 @@ This project contributes to **public health monitoring**, **safety compliance**,
 
 ###  Setup Steps
 ```bash
-git clone https://github.com/[YOUR_USERNAME]/Face-Mask-Detection.git
+git clone https://github.com/prathammishra700/Face-Mask-Detection.git
 cd Face-Mask-Detection
 pip install -r requirements.txt
 ```
-Open **Google Colab** → Upload the `.ipynb` file → Run all cells
-
-The trained model will be saved as:
 ```
-mask_detector_model.h5
 ```
-
----
 
 ##  Usage
 
@@ -91,9 +85,8 @@ Integrate with webcam via OpenCV for real-time detection
 
 | Metric | Result |
 |:--------|:--------|
-| **Training Accuracy** | 98.2% |
-| **Validation Accuracy** | 96.8% |
-| **Loss** | < 0.10 |
+| **Training Accuracy** | 86.0% |
+| **Validation Accuracy** | 89.90% |
 | **Dataset Split** | 80% Train / 20% Validation |
 
 ---
