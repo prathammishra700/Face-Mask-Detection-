@@ -32,7 +32,7 @@ This project contributes to **public health monitoring**, **safety compliance**,
 | **Subject** | Deep Learning / AI |
 | **Semester** | Final Year |
 | **Institution** | Shri Ramswaroop Memorial University |
-| **Under IBM Project Initiative** | Internal Assessment (60 Marks) |
+| **Under IBM Project Initiative** | Internal Assessment |
 
 ---
 
@@ -76,8 +76,6 @@ pip install -r requirements.txt
 ###  Image Detection
 Upload an image → Model predicts **Mask / No Mask** label
 
-###  Video Stream (optional)
-Integrate with webcam via OpenCV for real-time detection
 
 ---
 
