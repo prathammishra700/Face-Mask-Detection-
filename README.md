@@ -120,18 +120,21 @@ Face-Mask-Detection/
 
 ##  Author
 **Pratham Mishra**
+
 202310101150716
  B.Tech Computer Science (Data Science & AI)  
  Shri Ramswaroop Memorial University  
  
 
  **Aditi Gupta**
+ 
  202310101150715
  B.Tech Computer Science (Data Science & AI)  
  Shri Ramswaroop Memorial University  
 
 
  **Sameeksha Gupta**
+ 
  202210101150122
  B.Tech Computer Science (Data Science & AI)  
  Shri Ramswaroop Memorial University  
