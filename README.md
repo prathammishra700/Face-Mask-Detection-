@@ -70,13 +70,6 @@ pip install -r requirements.txt
 ```
 ```
 ```
-
-##  Usage
-
-###  Image Detection
-Upload an image → Model predicts **Mask / No Mask** label
-
-
 ---
 
 ##  Model Performance
@@ -126,17 +119,20 @@ Face-Mask-Detection/
 ---
 
 ##  Author
-**Pratham Mishra**  
+**Pratham Mishra**
+202310101150716
  B.Tech Computer Science (Data Science & AI)  
  Shri Ramswaroop Memorial University  
  
 
- **Aditi Gupta**  
+ **Aditi Gupta**
+ 202310101150715
  B.Tech Computer Science (Data Science & AI)  
  Shri Ramswaroop Memorial University  
 
 
- **Sameeksha Gupta**  
+ **Sameeksha Gupta**
+ 202210101150122
  B.Tech Computer Science (Data Science & AI)  
  Shri Ramswaroop Memorial University  
  
