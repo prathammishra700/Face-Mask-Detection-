@@ -122,6 +122,7 @@ Face-Mask-Detection/
 **Pratham Mishra**
 
 202310101150716
+
  B.Tech Computer Science (Data Science & AI)  
  Shri Ramswaroop Memorial University  
  
@@ -129,6 +130,7 @@ Face-Mask-Detection/
  **Aditi Gupta**
  
  202310101150715
+ 
  B.Tech Computer Science (Data Science & AI)  
  Shri Ramswaroop Memorial University  
 
@@ -136,6 +138,7 @@ Face-Mask-Detection/
  **Sameeksha Gupta**
  
  202210101150122
+ 
  B.Tech Computer Science (Data Science & AI)  
  Shri Ramswaroop Memorial University  
  
