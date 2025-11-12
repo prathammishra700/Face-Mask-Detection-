@@ -92,7 +92,6 @@ Face-Mask-Detection/
 ├── mask_detector_model.h5
 ├── requirements.txt
 ├── README.md
-├── screenshots/
 │   ├── accuracy_curve.png
 │   ├── confusion_matrix.png
 │   └── sample_predictions.png
