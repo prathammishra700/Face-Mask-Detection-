@@ -133,14 +133,5 @@ Face-Mask-Detection/
  B.Tech Computer Science (Data Science & AI)  
  Shri Ramswaroop Memorial University  
 
-
- **Sameeksha Gupta**
- 
- 202210101150122
- 
- B.Tech Computer Science (Data Science & AI)  
- Shri Ramswaroop Memorial University  
- 
-
 ---
 
